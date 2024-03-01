@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kauê caires 🦾
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaue-caires)[![Youtube](  https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJEFEv3dKibh9OeMY1gHjKw)[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@kauecodify)[![Trello]([https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white])](https://trello.com/u/kauecaires/boards)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaue-caires)[![Youtube](  https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJEFEv3dKibh9OeMY1gHjKw)[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@kauecodify)[![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/kauecaires/boards)
 
 
 ![kauecodify GitHub stats](https://github-readme-stats.vercel.app/api?username=kauecodify&theme=merko&show_icons=true)
