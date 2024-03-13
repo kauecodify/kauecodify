@@ -8,8 +8,8 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### statics of the Devs
-![kauecodify GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={github.com/kauecodify}&theme=blue-green) ![statics](https://starchart.cc/{username}/{github.com/kauecodify}.svg)
-![Snake animation](https://github.com/kauecodify/kauecodify/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kauecodify/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave/kauecodify)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
