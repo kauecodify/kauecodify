@@ -9,7 +9,7 @@
 
 ### statics of the Devs
 ![kauecodify GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={github.com/kauecodify}&theme=blue-green) ![statics](https://starchart.cc/{username}/{github.com/kauecodify}.svg)
-![Snake animation](https://github.com/KAUECODIFY/KAUECODIFY/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kauecodify/kauecodify/blob/output/github-contribution-grid-snake.svg)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
