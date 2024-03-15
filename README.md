@@ -10,7 +10,7 @@
 ### statics of the Devs
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave/kauecodify)
 
-### Welcome
+### Welcome.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
