@@ -10,10 +10,6 @@
 ### Statics of the Devs
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave/kauecodify)
 
-###main
-![Snake animation](https://github.com/kauecodify/kauecodify/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=kauecodify&repo=kauecodify&theme=react)](https://github.com/username/kauecodify)
-
 ### Welcome.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
