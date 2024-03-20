@@ -4,7 +4,7 @@
 
 ### Learning FullStack Languages🦾
 
-![Snake animation](https://github.com/kauecodify/kauecodify/blob/output/github-contribution-grid-snake(1).svg)
+![Snake animation](https://github.com/kauecodify/kauecodify/blob/output/github-contribution-grid-snake.svg)
 
 ### Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaue-caires)[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/cairescodify)[![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/kauecaires/boards)[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Kaue-Caires)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:instagram.com/trewhpylab)
