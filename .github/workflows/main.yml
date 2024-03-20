@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: kauecodify
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake(1).svg
 
       - run: git status
 
