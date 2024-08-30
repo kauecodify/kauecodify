@@ -22,10 +22,6 @@
 
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="90" /><img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" width="90"/><img src="https://img.icons8.com/?size=100&id=hUJLMnqf5Rhd&format=png&color=000000" width="90"/><img src="https://img.icons8.com/?size=100&id=7ej5ASIwdQXG&format=png&color=000000" width="90"/>
 
-
-
-![octocat](octocat.png)
-
 ©
 
 </div>
