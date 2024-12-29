@@ -29,7 +29,7 @@
 <img src="https://img.icons8.com/?size=100&id=hUJLMnqf5Rhd&format=png&color=000000" width="90"/>
 <img src="https://img.icons8.com/?size=100&id=7ej5ASIwdQXG&format=png&color=000000" width="90"/>
 
-![Data Analytics](data-analytics.gif)
+![Data Analytics](data.png)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="90" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="90" />
