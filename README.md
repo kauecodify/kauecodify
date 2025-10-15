@@ -49,11 +49,11 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 ---
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=CONECTIONS...;+:%29)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauecodify/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauecaires1@gmail.com)
+<img src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" width="70" />
+
+[![LinkedIn](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/kauecodify/)
+[![Gmail](https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000)](mailto:kauecaires1@gmail.com)
 
 </div>
 
