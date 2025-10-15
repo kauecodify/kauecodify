@@ -51,7 +51,7 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 <img src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" width="70" />
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/kauecodify/)
-[![Gmail](https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000)](mailto:kauecaires1@gmail.com)
+[![Gmail](https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000)](mailto:kauecloud7@gmail.com)
 
 </div>
 
