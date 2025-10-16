@@ -42,10 +42,6 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kauecodify&theme=darkhub&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <div align="center">
 
 <img src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" width="70" />
