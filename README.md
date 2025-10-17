@@ -35,11 +35,6 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauecodify&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/kauecodify/github-readme-activity-graph)
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauecodify&show_icons=true&theme=dark&bg_color=0d1117&title_color=15e5a6&icon_color=07e9a5&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauecodify&layout=compact&theme=dark&bg_color=0d1117&title_color=15e5a6&text_color=ffffff" />
-</div>
-
 ---
 
 <div align="center">
