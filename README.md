@@ -43,7 +43,8 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 
 </div>
 
+---
 
-
+![Snake", "contribution", "graph", "https://github.com/kauecodify", "Github](https://github.com/kauecodify)
 
 
