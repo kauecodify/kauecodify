@@ -40,6 +40,3 @@ src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" w
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauecodify&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/kauecodify/github-readme-activity-graph)
 
-<img 
-src="octocat.png" width="300" />
-
