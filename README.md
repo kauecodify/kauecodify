@@ -2,7 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Hello;I+am+from+Brazil,+SP;I+study+Computer+Engineering+at+Univesp-USP;+and;+BigData+/+Analytical+intelligence+in+UniCV;LEET's+CODE+🦾🧪📈+:%29)](https://git.io/typing-svg)
 
-<img 
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauecodify&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/kauecodify/github-readme-activity-graph)
+
+---
+
+<!-- <img 
 src="https://img.icons8.com/?size=100&id=JdUAwt7mLjDS&format=png&color=000000" width="70"/>
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" />
@@ -30,13 +44,5 @@ src="https://img.icons8.com/?size=100&id=meQNCLIW9XBZ&format=png&color=000000" w
 <img 
 src="https://img.icons8.com/?size=100&id=84279&format=png&color=000000" width="70" />
 <img
-src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" width="70" />
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kauecodify&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/kauecodify/github-readme-activity-graph)
+src="https://img.icons8.com/?size=100&id=QtUedubeFTFJ&format=png&color=000000" width="70" /> -->
 
