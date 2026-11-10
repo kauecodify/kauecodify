@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Oi;I+am+from+Brazil,+SP;I+study+Computer+Engineering+at+Univesp-USP;+and;+Artificial+Intelligence+Management+in+Fiap;+🦾🧪📈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Brazil;Engineering+and+Artificial+Intelligence+Management;in+coding...+🦾🧪📈🌐🎭🔌☔.:)](https://git.io/typing-svg)
 
 ---
 
@@ -9,6 +9,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauecodify/kauecodify/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauecodify&theme=dark" alt="Profile Summary" />
+
+</div>
+
+
 
 ---
 
