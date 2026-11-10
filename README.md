@@ -26,6 +26,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauecodify&theme=dark" alt="Profile Summary" />
 
+<img src="front-end.gif" alt="Profile Summary">
+
 </div>
 
 
